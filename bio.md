@@ -1,2 +1,2 @@
 ## Name: Cody Messina
-Photo: ![Cody](images/Cat_Majestic.jpg)
+Photo: ![Cody](images/Cat_Majestic.JPG)
