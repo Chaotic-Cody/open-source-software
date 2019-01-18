@@ -14,4 +14,4 @@ First, I would like to say that what the RIAA has done is completely bull, and t
 Photo: ![Tree](images/Tree.png)
 
 ## Regex
-Photo: ![Problem 1](images/Tree.png)
+Photo: ![Problem 1](images/RegexOneP1.png)
