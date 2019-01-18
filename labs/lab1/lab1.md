@@ -11,7 +11,16 @@ This strict criteria for is important for writing and maintaining open source pr
 First, I would like to say that what the RIAA has done is completely bull, and that the American legal system is pretty broken. Jesse built upon the open source content of an older search engine as a pet project. He fixed a bug that caused searches that queried powered down machines to crash the user's system by allowing the user to manually check if the system in question was still actively on the network. To be clear, Jesse continued work on a search engine that he didn't build from the ground up, made it successful, and then proceeded to be sued by the RIAA for files found on other user's local machines that were linked via the search engine. After severe strongarming, Jesse's only remaining options were to fight the case and go bankrupt, or settle and lose all of his savings, along with the placement of severe technological restrictions for the rest of his life. 
 
 ## Tree
-Photo: ![Tree](images/Tree.png)
+![Tree](images/Tree.png)
 
 ## Regex
-Photo: ![Problem 1](images/RegexOneP1.png)
+![Problem 1](images/RegexOneP1.png)
+![Problem 2](images/RegexOneP2.png)
+![Problem 3](images/RegexOneP3.png)
+![Problem 4](images/RegexOneP4.png)
+![Problem 5](images/RegexOneP5.png)
+![Problem 6](images/RegexOneP6.png)
+![Problem 7](images/RegexOneP7.png)
+
+## Regex Crossword
+![Problem 1](images/CrosswordP1.png)
