@@ -30,3 +30,9 @@ First, I would like to say that what the RIAA has done is completely bull, and t
 
 ## Blockly
 ![Maze Level 10](images/BlocklyMaze10.png)
+
+## Reflection
+Open Source Project: [Aurora](https://github.com/evaera/Aurora)
+I am a hobby game developer, and frequently use Roblox for rapid prototyping and concept work. Making games in Roblox is currently very unstructured, with every developer coming up with their own tools and workflows on the platform. I believe that it would make it easier for all game developers on Roblox if there were more open source toolkits to provide a foundation for organization and good coding practices. Since the demographic consists predominantly of younger people, I believe it is especially important to encourage good coding practices through the use of frameworks and modules. 
+
+Aurora is an open source project run by my friend Eryn. Aurora aims to tackle the common game development problem of stacking effects and status tracking in multiplayer online games. For example, say you get a 10% damage buff and a 5% damage debuff, you would normally have to manually decide how to handle these interactions, and to ensure that they are secure along the client<->server boundary. With Aurora, you can define Agents for each player, and create any number of Auras for each agent. In this case, we would define an Aura for the 10% damage buff, and another for the 5% damage debuff, and then Aurora would handle the number crunching. The default behaviour is to simply return the smallest value, but custom parameters can be passed in to override the defaults. 
