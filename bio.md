@@ -1,4 +1,4 @@
 ## Name: Cody Messina
 ### GitHub ID: Chaotic-Cody
-### Slack ID: N/A
+### Mattermost ID: Chaotic-Cody
 Photo: ![Cody](images/Cat_Majestic.JPG)
