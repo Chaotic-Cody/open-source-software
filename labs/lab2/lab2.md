@@ -6,10 +6,7 @@
 
 ### Part 2
 
-[P1](images/GitBranching1.png)
-
-[P2](images/GitBranching2.png)
-
-[P3](images/GitBranching3.png)
-
-[P4](images/GitBranching4.png)
+![P1](images/GitBranching1.png)
+![P2](images/GitBranching2.png)
+![P3](images/GitBranching3.png)
+![P4](images/GitBranching4.png)
