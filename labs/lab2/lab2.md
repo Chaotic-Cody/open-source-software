@@ -13,10 +13,10 @@
 
 ### Part 3
 
-## Course Project Repository (Section 4)
+#### Course Project Repository (Section 4)
 
 [courseproject](https://github.com/Chaotic-Cody/courseproject)
 
-## ProjectIdeas2019 Forked Repository (Section 5)
+#### ProjectIdeas2019 Forked Repository (Section 5)
 
 [ProjectIdeas2019](https://github.com/Chaotic-Cody/ProjectIdeas2019)
