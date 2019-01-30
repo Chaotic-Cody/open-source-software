@@ -77,9 +77,13 @@ Number of lines found by gitstats: 15628
 ### gource videos
 
 [Tornado](https://youtu.be/n5TCfNHC6Rw)
+
 [YACS](https://drive.google.com/open?id=1uc1Nmwl8gpu4GUq2zjCSsQwSQDlyDGZX)
+
 [Technical Professionalism](https://youtu.be/xisdabP4Po0)
+
 [Smart Scheduler](https://drive.google.com/open?id=1J5yZKccYUQ_16OWr4p5acobbEbgc0kIQ)
+
 [Venue]()
 
 
