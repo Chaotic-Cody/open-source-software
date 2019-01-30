@@ -74,4 +74,19 @@ Number of lines originally found: 15872
 
 Number of lines found by gitstats: 15628
 
+### gource videos
+
+[Tornado](https://youtu.be/n5TCfNHC6Rw)
+[YACS](https://drive.google.com/open?id=1uc1Nmwl8gpu4GUq2zjCSsQwSQDlyDGZX)
+[Technical Professionalism](https://youtu.be/xisdabP4Po0)
+[Smart Scheduler](https://drive.google.com/open?id=1J5yZKccYUQ_16OWr4p5acobbEbgc0kIQ)
+[Venue]()
+
+
 ## Part 2
+
+[Python Unit Testing](https://github.com/Chaotic-Cody/markdown-python-unit-testing)
+
+![markdown.py](images/Code.png)
+![unittests.py](images/UnitTests.png)
+![results](images/Results.png)
