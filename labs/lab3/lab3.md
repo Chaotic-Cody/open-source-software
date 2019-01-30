@@ -15,12 +15,16 @@
 
 ##### First commit
 December 11, 2018
+
 Start project
+
 Commit message: "Started the project and added all the template files and the build configuration."
 
 ##### Latest commit
 January 28, 2019
+
 Update .gitlab-ci.yml
+
 Commit message: ""
 
 ##### Current branches
@@ -35,6 +39,7 @@ master
 
 ##### First commit
 January 22, 2019
+
 Initial commit
 
 ##### Latest commit
