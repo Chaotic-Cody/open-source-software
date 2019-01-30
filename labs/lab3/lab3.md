@@ -28,7 +28,7 @@ Update .gitlab-ci.yml
 Commit message: ""
 
 ##### Current branches
-master
+1
 
 #### Technical Professionalism
 
@@ -46,7 +46,7 @@ Initial commit
 January 22, 2019
 
 ##### Current branches
-master
+1
 
 #### YACS
 
@@ -63,6 +63,38 @@ January 24, 2019
 
 ##### Current branches
 21
+
+#### Smart Scheduler
+
+##### Contributors: 1
+
+##### Lines of code
+0
+
+##### First commit
+January 25, 2019
+
+##### Last commit
+January 25, 2019
+
+##### Current branches
+1
+
+#### Venue
+
+##### Contributors: 11
+
+##### Lines of code
+49398
+
+##### First commit
+December 15, 2015
+
+##### Last commit
+December 11, 2018
+
+##### Current branches
+23
 
 ### Our Data vs gitstats for Tornado
 
