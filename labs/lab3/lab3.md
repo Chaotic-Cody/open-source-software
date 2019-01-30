@@ -27,6 +27,9 @@ I recently purchased a new Corsair K95 RGB Platinum keyboard for the new PC I've
 ![latex](images/EquationsLatex.png)
 ![equation](images/Equations.png)
 
+![latex](images/HadamardLatex.png)
+![matrix](images/Hadamard.png)
+
 ## Part 1 - Community
 
 ### RCOS Projects
