@@ -2,6 +2,30 @@
 
 ## Part 0 - Documentation
 
+### Areas of interest
+There are many areas I would like to explore, including the development of:
+1. Game development tools
+2. General workflow tools
+3. LED lighting programming tools
+
+In particular, some established projects I'm looking to get involved in include:
+1. Apache OpenOffice
+2. Aurora
+3. Nevermore Engine
+
+and I would like to potentially work on a project to add support for the programming of RGB LEDS in Corsair's keyboards using a lightweight scripting language - namely, Lua.
+
+Each of these projects interests me for a different reason. 
+
+In my spare time, I'm a hobbyist game developer and would love to make tools to allow games to be made more organized and their execution more effective. 
+
+I use Apache OpenOffice as an alternative to Microsoft's paid Office suite, and would love to give back by updating it to be more competitive. 
+
+I recently purchased a new Corsair K95 RGB Platinum keyboard for the new PC I've just built, and was very disappointed by the lack of customization their software allowed for controlling the LEDs. 
+
+### LaTeX
+[latex](images/Equations.png)
+
 ## Part 1 - Community
 
 ### RCOS Projects
@@ -116,7 +140,7 @@ Number of lines found by gitstats: 15628
 
 [Smart Scheduler](https://drive.google.com/open?id=1J5yZKccYUQ_16OWr4p5acobbEbgc0kIQ)
 
-[Venue]()
+[Venue](https://drive.google.com/open?id=1VkUsDiXiLyYT-wP3njDbYGDm8DXeM8io)
 
 
 ## Part 2
