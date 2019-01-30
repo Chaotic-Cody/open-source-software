@@ -62,8 +62,11 @@ January 24, 2019
 ### Our Data vs gitstats for Tornado
 
 First commit and last commits match.
+
 Branches match. 
+
 Number of lines originally found: 15872
+
 Number of lines found by gitstats: 15628
 
 ## Part 2
