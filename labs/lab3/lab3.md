@@ -24,7 +24,8 @@ I use Apache OpenOffice as an alternative to Microsoft's paid Office suite, and 
 I recently purchased a new Corsair K95 RGB Platinum keyboard for the new PC I've just built, and was very disappointed by the lack of customization their software allowed for controlling the LEDs. 
 
 ### LaTeX
-![latex](images/Equations.png)
+![latex](images/EquationsLatex.png)
+![equation](images/Equations.png)
 
 ## Part 1 - Community
 
