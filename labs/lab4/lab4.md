@@ -30,7 +30,8 @@ Best for company - LGPL
 
 Best for common good - GPL
 
-########## Intermediate - create repo and choose license
+## 8. Licensed Repository
+[Example Licensed Repository](https://github.com/Chaotic-Cody/lab4q8)
 
 ## 9. Choosing a project
 I have so many ideas for potential projects to work on. For this course in particular, I'm either going to work on a large, existing project with a flourishing community to learn how to work on a project at scale, or I am going to begin my own project from scratch to learn how to build my own community and codebase from the ground up. In the case of the large codebase, I would like to work on Apache's OpenOffice suite. I've used OpenOffice as a substitute for Microsoft Office for a long time now, and would love a chance to give back to the community. The project has a huge demographic. For example, I started to use OpenOffice when I was in high school, but anyone needing a powerful word processor, powerpoint maker, or spreadsheet program for free will want to pick up a distribution of OpenOffice. Of course, for this project I would need to maintain Apache's license V2.0.
