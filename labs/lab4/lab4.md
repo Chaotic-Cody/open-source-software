@@ -3,7 +3,7 @@
 ## 2. The Importance of Licensing
 There are many reasons why it is important not only to choose a license for your project, but to pick one that properly outlines how you wish to see your project used in the future. Licenses outline what can be done with your creation, including who can use, distribute, and even work on it, and to the extent of which the user can do so. Whether your creation is for private use or completely open source, it's important to choose the correct license.
 
-In particular, without a license, you have little to no chance of building a community to work on your project!
+In particular, without a license you have little to no chance of building a community to work on your project!
 
 ## 3. The Dangers of Unlicensed Projects
 You should never use, nor contribute, to projects that do not have a license. In most areas, content without an explicit license automatically means that the rights to all said content are help exclusively by the original creator. This includes any work contributed by others, and can mean especially bad legal trouble if the owner decides to take action against the users. Anything built using the original assets is also at the whim of the original owner, who can issue a DMCA takedown notice, and potentially sue for monetary damages if you've made anything from their assets.
