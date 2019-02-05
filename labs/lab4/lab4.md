@@ -13,12 +13,17 @@ I agree with the authors reasoning. The open systems model includes open communi
 
 ## 5. GPL v2
 Linux uses the GPL v2 license. The GPL v2 license is a free software license. This license not only allows the user to run, study, distribute modified versions, and redistribute the source code freely, but also requires that any modifications or usage in future projects utilizing the GPL licensed project be made available under the same GPL license. Linux is an open source operating system begun by Linus Torvalds, and is one of the most useful and popular pieces of open source software known today. It has been forked countless times, with individual distributions gaining popularity in their own circles. 
+
 [License](https://web.archive.org/web/20070819045030/http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12)
 
 ## 6. Example project as a !group! (my quick example - Web Edit. Allows you to easily edit webpages locally and retain a copy with your edits. Example usage would be to highlight text in an article, or to easily mockup website design changes for the website's designer to use as feedback. If the webpage is updated, a diff can be run between your original local version and the new version, and you can decide from there how to merge them. )
 
-## 7. Best License for !insert project!
+## 7. GPl, LGPL, Apache 2.0, and BSD
+GPL and LGPL are both completely open source. The main difference between GPL and LGPL is that GPL is more of a copyleft license, where everything contributed to a GPL licensed project must also fall under the GPL license, whereas the LGPL license is more permissive, and allows contributors to link and use non-free modules. Any modifications made to the LGPL code must still be made public to everyone under the LGPL license, however! The Apache 2.0 license is permissive, but every change requires the contributor to add prominent notifications stating how and what they've modified. 
 
+Best for developer - Apache 2.0
+Best for company - LGPL
+Best for common good - GPL
 
 ########## Intermediate - create repo and choose license
 
