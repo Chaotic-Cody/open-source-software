@@ -11,8 +11,9 @@ You should never use, nor contribute, to projects that do not have a license. In
 ## 4. Why the Web beat Gopher - Failure to follow the Open System Model
 I agree with the authors reasoning. The open systems model includes open communications standards and open source software. The former is important to garner increasing mind share and wider adoption in the target demographic, whereas the latter is important for the actual development of the software to keep it constantly evolving and better than its competitors. The developers of Gopher, following a closed source model and using very little user input in their decision making process, shunted their own growth. Once people got wind of the potential for the software to be sold via licensing, the search for an alternative begun, making way for the rise of the World Wide Web and HTML.
 
-## 5. Apache license 2.0
-
+## 5. GPL v2
+Linux uses the GPL v2 license. The GPL v2 license is a free software license. This license not only allows the user to run, study, distribute modified versions, and redistribute the source code freely, but also requires that any modifications or usage in future projects utilizing the GPL licensed project be made available under the same GPL license. Linux is an open source operating system begun by Linus Torvalds, and is one of the most useful and popular pieces of open source software known today. It has been forked countless times, with individual distributions gaining popularity in their own circles. 
+[License](https://web.archive.org/web/20070819045030/http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12)
 
 ## 6. Example project as a !group! (my quick example - Web Edit. Allows you to easily edit webpages locally and retain a copy with your edits. Example usage would be to highlight text in an article, or to easily mockup website design changes for the website's designer to use as feedback. If the webpage is updated, a diff can be run between your original local version and the new version, and you can decide from there how to merge them. )
 
