@@ -18,7 +18,7 @@ Linux uses the GPL v2 license. The GPL v2 license is a free software license. Th
 
 ## 6. Example project as a !group! (my quick example - Web Edit. Allows you to easily edit webpages locally and retain a copy with your edits. Example usage would be to highlight text in an article, or to easily mockup website design changes for the website's designer to use as feedback. If the webpage is updated, a diff can be run between your original local version and the new version, and you can decide from there how to merge them. )
 
-## 7. GPl, LGPL, Apache 2.0, and BSD
+## 7. GPL, LGPL, Apache 2.0, and BSD
 GPL and LGPL are both completely open source. The main difference between GPL and LGPL is that GPL is more of a copyleft license, where everything contributed to a GPL licensed project must also fall under the GPL license, whereas the LGPL license is more permissive, and allows contributors to link and use non-free modules. Any modifications made to the LGPL code must still be made public to everyone under the LGPL license, however! The Apache 2.0 license is permissive, but every change requires the contributor to add prominent notifications stating how and what they've modified. 
 
 Best for developer - Apache 2.0
@@ -36,6 +36,7 @@ For my own project, I would most likely utilize the GPL license, as it allows pe
 
 ## 10. RCOS Project License Table
 |Website                                                 |License Present|License|
+|-----------------|--------------------------------------|-----------------------|
 |[YACS](https://github.com/yacs-rcos/yacs)               |   |   |
 |[venue](https://github.com/rcos/venue)                  |   |   |
 |[Submitty](https://github.com/submitty/submitty)        |   |   |
