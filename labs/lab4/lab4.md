@@ -26,5 +26,5 @@ I have so many ideas for potential projects to work on. For this course in parti
 
 For my own project, I would most likely utilize the GPL license, as it allows people to build off of my code base and for everyone to benefit from any contributions. 
 
-## RCOS Project License Table
+## 10. RCOS Project License Table
 
