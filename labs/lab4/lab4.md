@@ -17,7 +17,9 @@ Linux uses the GPL v2 license. The GPL v2 license is a free software license. Th
 [License](https://web.archive.org/web/20070819045030/http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12)
 
 ## 6. Example project - Web Edit
-Allows you to easily edit webpages locally and retain a copy with your edits. Example usage would be to highlight text in an article, or to easily mockup website design changes for the website's designer to use as feedback. If the webpage is updated, a diff can be run between your original local version and the new version, and you can decide from there how to merge them. )
+Allows you to easily edit webpages locally and retain a copy with your edits. Example usage would be to highlight text in an article, or to easily mockup website design changes for the website's designer to use as feedback. If the webpage is updated, a diff can be run between your original local version and the new version, and you can decide from there how to merge them.
+
+I would use the LGPL license to remain true to the open source model, but also allow users to link closed modules in order to allow maximum usability. 
 
 ## 7. GPL, LGPL, Apache 2.0, and BSD
 GPL and LGPL are both completely open source. The main difference between GPL and LGPL is that GPL is more of a copyleft license, where everything contributed to a GPL licensed project must also fall under the GPL license, whereas the LGPL license is more permissive, and allows contributors to link and use non-free modules. Any modifications made to the LGPL code must still be made public to everyone under the LGPL license, however! The Apache 2.0 license is permissive, but every change requires the contributor to add prominent notifications stating how and what they've modified. 
