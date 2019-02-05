@@ -35,9 +35,9 @@ I have so many ideas for potential projects to work on. For this course in parti
 For my own project, I would most likely utilize the GPL license, as it allows people to build off of my code base and for everyone to benefit from any contributions. 
 
 ## 10. RCOS Project License Table
-|Website|License Present|License|
-|[YACS](https://github.com/yacs-rcos/yacs)|   |   |
-|[venue](https://github.com/rcos/venue)|   |   |
-|[Submitty](https://github.com/submitty/submitty)|   |   |
+|Website                                                 |License Present|License|
+|[YACS](https://github.com/yacs-rcos/yacs)               |   |   |
+|[venue](https://github.com/rcos/venue)                  |   |   |
+|[Submitty](https://github.com/submitty/submitty)        |   |   |
 |[Shuttle Tracker](https://github.com/wtg/shuttletracker)|   |   |
-|[Catan AI](https://github.com/justinchen673/catan-ai)|   |   |
+|[Catan AI](https://github.com/justinchen673/catan-ai)   |   |   |
