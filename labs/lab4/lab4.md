@@ -22,7 +22,9 @@ Linux uses the GPL v2 license. The GPL v2 license is a free software license. Th
 GPL and LGPL are both completely open source. The main difference between GPL and LGPL is that GPL is more of a copyleft license, where everything contributed to a GPL licensed project must also fall under the GPL license, whereas the LGPL license is more permissive, and allows contributors to link and use non-free modules. Any modifications made to the LGPL code must still be made public to everyone under the LGPL license, however! The Apache 2.0 license is permissive, but every change requires the contributor to add prominent notifications stating how and what they've modified. 
 
 Best for developer - Apache 2.0
+
 Best for company - LGPL
+
 Best for common good - GPL
 
 ########## Intermediate - create repo and choose license
