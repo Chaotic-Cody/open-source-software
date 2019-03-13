@@ -1,1 +1,1 @@
-https://github.com/Chaotic-Cody/open-source-software/tree/master/labs/lab6
+https://github.com/Chaotic-Cody/open-source-software/blob/master/labs/lab6/lab6.md
