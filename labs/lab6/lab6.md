@@ -7,7 +7,7 @@
 [Four letter solution](words4letter.py)
 
 ## Four letter pairs (ordered)
-[Four letter ordered results](words4letter.txt)
+[Four letter ordered results](ordered4letter.txt)
 
 ## Unordered solution code (via permutations)
 [Unordered solution](wordsunordered.py)
