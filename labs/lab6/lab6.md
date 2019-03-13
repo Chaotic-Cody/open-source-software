@@ -1,4 +1,4 @@
 # Lab6
 
 ## Five letter pairs (ordered)
-![5ordered](images/)
+[Five letter ordered results](ordered5letter.txt)
