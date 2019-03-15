@@ -23,3 +23,7 @@
 ![6](images/ps_p6.png)
 ![7](images/ps_p7.png)
 ![8](images/ps_p8.png)
+
+## Observatory Project - ckRGB
+
+[ckRGB](https://rcos.io/projects/chaotic-cody/ckrgb/profile)
