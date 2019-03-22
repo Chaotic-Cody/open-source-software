@@ -17,6 +17,12 @@ Log shows the file, line number, arguments, and current directory of the error.
 Error condition: SIGSEGV & SIGILL
 ![failed_test](images/failed_test.png)
 
+Nightly System:
+
+The linux-shared build is passing all tests, with only 6 warnings.
+
+ctest -D Experimental
+![local_test](images/local_test.png)
 
 ## Checkpoint 5
 ![p](images/project.png)
