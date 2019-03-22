@@ -33,5 +33,17 @@ TestNewArrayInterpolationDense.cxx failure
 ![test_failure](images/test_failure.png)
 ![dash](images/test_failure_dash.png)
 
+Dashboard says "Error: expected 2"
+
+## Checkpoint 4
+
+Debug log:
+
+Changed 'c->SetValue(5, 1, 9);' to 'c->SetValue(4, 1, 9);'
+
+Changed 'test_new_expression(d->GetValue(0, 1) == 4, "Error: expected 2");' to 'test_new_expression(d->GetValue(0, 1) == 2, "Error: expected 2");'
+
+![fixed](images/fixed_test.png)
+
 ## Checkpoint 5
 ![p](images/project.png)
