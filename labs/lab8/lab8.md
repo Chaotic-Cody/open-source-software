@@ -11,7 +11,9 @@ Viewing tests:
 
 
 Error Submission:
+
 Log shows the file, line number, arguments, and current directory of the error.
+
 Error condition: SIGSEGV & SIGILL
 ![failed_test](images/failed_test.png)
 
