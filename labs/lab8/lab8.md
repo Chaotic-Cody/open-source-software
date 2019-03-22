@@ -23,6 +23,15 @@ The linux-shared build is passing all tests, with only 6 warnings.
 
 ctest -D Experimental
 ![local_test](images/local_test.png)
+![dash](images/test_failure_dash.png)
+
+There are no errors, all 81 tests pass with my submission.
+
+## Checkpoint 3
+
+TestNewArrayInterpolationDense.cxx failure
+
+![test_failure](images/test_failure.png)
 
 ## Checkpoint 5
 ![p](images/project.png)
