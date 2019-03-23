@@ -24,7 +24,7 @@ The .bashrc file contains commands that are run whenever you boot WSL.
 1. Navigate to your .bashrc file by typing 'cd ' into your terminal. This will take you to the root directory.
 2. Type in 'nano .bashrc' to open up the file.
 3. In nano, navigate to the bottom of the file and type 'export DISPLAY=:0'
-![bashrc|40%](images/bashrc.png)
+![bashrc|100%](images/bashrc.png)
 4. Ctrl+s to save
 5. Ctrl+x to exit nano
 
