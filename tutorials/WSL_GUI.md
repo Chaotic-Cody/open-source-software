@@ -9,6 +9,7 @@ This tutorial will assume that you have the following:
 2. Windows Powershell or another terminal
 3. At least 4 GB of space (this is a generous estimate)
 4. Administrative access on the machine
+5. Windows 10
 
 ## Step 1 - [Install Xming](https://sourceforge.net/projects/xming/) and run it on Windows
 
@@ -34,6 +35,14 @@ There are two ways for the changes you've just made to be reflected in the termi
 1. Restart WSL
 2. Type 'export DISPLAY=:0' into the terminal
 
+## Notes
+
+1. WSL doesn't natively support GUIs, and this is a workaround method that happens to work at this time. Hopefully Microsoft adds support so hacky workarounds like this don't have to exist.
+2. Xming doesn't claim to support Windows 10, but it is compatible as of 3/22/2019 on Windows 10 Version 10.0.17763 Build 17763.
+
+
 ## Protips
 
 1. Open your terminal with Administrator access - it'll save you a headache later.
+
+##### Author: Cody Messina 3/22/2019
