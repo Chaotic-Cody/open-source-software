@@ -18,5 +18,22 @@
 
 ![p4](images/cowsay_installed.png)
 
-## Checkpoint 3 -- Example 02
+## Checkpoint 3 -- Example02
 
+### Running RocketChat
+
+![p5](images/rocketchat_running.png)
+
+## Checkpoint 4 -- Example03
+
+### Build and tun the Dockerfile
+
+![p6](images/dockerfile_running.png)
+
+### See the web server
+
+![p7](images/webserver.png)
+
+## Checkpoint 5 -- Example04
+
+![p8]()
