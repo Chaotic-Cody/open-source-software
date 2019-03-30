@@ -36,4 +36,4 @@
 
 ## Checkpoint 5 - Example04
 
-![p8](images/)
+![p8](images/messageapp_running.png)
