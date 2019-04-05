@@ -8,4 +8,7 @@
 ![p4](images/git_diff.png)
 ## Checkpoint 4 - Driving Queries
 ![p5](images/pprint_output.png)
-[Python Driver](scripts/checkpoint4.py)
+[checkpoint4.py](scripts/checkpoint4.py)
+## Checkpoint 5 - Random Word Requester
+![p6](images/randomword_timelog.png)
+[checkpoint5.py](scripts/checkpoint5.py)
