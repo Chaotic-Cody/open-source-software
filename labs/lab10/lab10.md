@@ -7,4 +7,5 @@
 ![p3](images/records.png)
 ![p4](images/git_diff.png)
 ## Checkpoint 4 - Driving Queries
-![p5](images/)
+![p5](images/pprint_output.png)
+![Python Driver](scripts/checkpoint4.py)
