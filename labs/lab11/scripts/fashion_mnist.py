@@ -1,7 +1,13 @@
 from __future__ import absolute_import, division, print_function
 
+import os
+import random
+import sys
+import math
+
 # TensorFlow and tf.keras
 import tensorflow as tf
+import cv2
 from tensorflow import keras
 from PIL import Image
 from PIL import ImageOps
@@ -9,6 +15,9 @@ from PIL import ImageOps
 # Helper libraries
 import numpy as np
 import matplotlib.pyplot as plt
+
+np.set_printoptions(precision=3)
+np.set_printoptions(formatter={'float': lambda x: "{0:0.3f}".format(x)})
 
 def plot_image(i, predictions_array, true_label, img):
 	predictions_array, true_label, img = predictions_array[i], true_label[i], img[i]
@@ -65,8 +74,8 @@ model.compile(optimizer='adam',
 							metrics=['accuracy'])
 
 # train model
-model.fit(train_images, train_labels, epochs=5)
-
+model.fit(train_images, train_labels, epochs=2)
+'''
 # test model
 test_loss, test_acc = model.evaluate(test_images, test_labels)
 
@@ -85,15 +94,57 @@ print(test_labels[0])
 
 # Plot the first X test images, their predicted label, and the true label
 # Color correct predictions in blue, incorrect predictions in red
+
 num_rows = 5
 num_cols = 3
 num_images = num_rows*num_cols
 plt.figure(figsize=(2*2*num_cols, 2*num_rows))
-offset = 9000 # my addition
+offset = 0#9000 # my addition
 for i in range(num_images):
-	print(i)
 	plt.subplot(num_rows, 2*num_cols, 2*i+1)
 	plot_image(i+offset, predictions, test_labels, test_images)
 	plt.subplot(num_rows, 2*num_cols, 2*i+2)
 	plot_value_array(i+offset, predictions, test_labels)
 plt.show()
+'''
+# Checkpoint 3 code - use 3 new images and see how the model classifies them
+
+img_name_list = os.listdir('./')
+img_name_list = sorted([name for name in img_name_list if 'jpg' in name.lower()])
+img_list = [cv2.imread(name, cv2.IMREAD_GRAYSCALE) for name in img_name_list]
+print("before resize")
+print([im.shape for im in img_list])
+img_list = [cv2.resize(im, (28, 28), interpolation = cv2.INTER_AREA) for im in img_list]
+img_list = [cv2.bitwise_not(im) for im in img_list]
+img_list = [(im / 255) for im in img_list]
+print("after resize")
+print([im.shape for im in img_list])
+img_list = np.asarray(img_list)
+
+cv2.imwrite("ankle_boot_small.jpg", img_list[0] * 255)
+cv2.imwrite("pullover_small.jpg", img_list[1] * 255)
+cv2.imwrite("tshirt_small.jpg", img_list[2] * 255)
+
+predictions = model.predict(img_list)
+test_labels = [9, 2, 0]
+
+# test model
+test_loss, test_acc = model.evaluate(img_list, test_labels)
+
+print('Test accuracy:', test_acc)
+
+num_rows = 1
+num_cols = 3
+num_images = num_rows*num_cols
+plt.figure(figsize=(2*2*num_cols, 2*num_rows))
+offset = 0 # my addition
+for i in range(num_images):
+	plt.subplot(num_rows, 2*num_cols, 2*i+1)
+	plot_image(i+offset, predictions, test_labels, img_list)
+	plt.subplot(num_rows, 2*num_cols, 2*i+2)
+	plot_value_array(i+offset, predictions, test_labels)
+	print(predictions[i])
+	print(np.argmax(predictions[i]))
+	print(class_names[np.argmax(predictions[i])])
+plt.show()
+

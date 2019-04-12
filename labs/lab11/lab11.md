@@ -10,3 +10,15 @@
 
 ## Checkpoint 3 - Curate Some Data
 
+![p3](images/plotted_images.png)
+
+![p4](images/prediction_arrays.png)
+
+![p5](images/ankle_boot.jpg)
+![p6](images/ankle_boot_small.jpg)
+
+![p7](images/pullover.jpg)
+![p8](images/pullover_small.jpg)
+
+![p9](images/tshirt.jpg)
+![p10](images/tshirt_small.jpg)
